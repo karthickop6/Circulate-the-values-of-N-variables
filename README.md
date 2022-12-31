@@ -30,7 +30,7 @@ n=int(input())
 ```
 
 ## Output:
-![OUTPUT](./Screenshot%202022-12-31%20at%2020-21-10%20Exp-02%20CR-Circulate%20n%20variables%20Attempt%20review.png)
+![output](./Screenshot%202022-12-31%20at%2020-21-10%20Exp-02%20CR-Circulate%20n%20variables%20Attempt%20review.png)
 
 ## Result:
 Thus,the program to circulate the n variables using fuction is executed successfully.
