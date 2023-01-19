@@ -6,7 +6,9 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Define a function circulate.
 ### Step 2: 
+Take l and n as inputs.
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
@@ -30,7 +32,7 @@ n=int(input())
 ```
 
 ## Output:
-![output](./Screenshot%202022-12-31%20at%2020-21-10%20Exp-02%20CR-Circulate%20n%20variables%20Attempt%20review.png)
+![output](./https://github.com/karthickop6/Circulate-the-values-of-N-variables/blob/main/Screenshot%202023-01-19%20at%2017-57-14%20Exp-1b%20CR-Circulate%20n%20variables%20Attempt%20review.png)
 
 ## Result:
 Thus,the program to circulate the n variables using fuction is executed successfully.
